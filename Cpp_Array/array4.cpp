@@ -1,5 +1,5 @@
 /*
-2. Find the Sum and Average of Array Elements
+2. Find number of Odd and Even Elements
 */
 
 #include<iostream>
